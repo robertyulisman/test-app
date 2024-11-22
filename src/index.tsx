@@ -1,14 +1,21 @@
+import { NavigationContainer } from '@react-navigation/native';
 import React from 'react';
-import { Text, View } from 'react-native';
+import { setContainer } from './Helper/NavigatorServices';
+import NotifService from './Helper/NotifService';
+import AppNavigator from './Navigations/AppNavigator';
+import InAppUpdate from './Services/InAppUpdate';
+import PermissionManager from './Services/PermissionManager';
 
-type Props = {};
+const App = () => {
+  PermissionManager();
+  InAppUpdate();
 
-const index = (props: Props) => {
   return (
-    <View>
-      <Text>index</Text>
-    </View>
+    <NavigationContainer ref={(navigatorRef) => setContainer(navigatorRef)}>
+      <AppNavigator />
+      <NotifService />
+    </NavigationContainer>
   );
 };
 
-export default index;
+export default App;
