@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "546674808707",
+    "firebase_url": "https://central-connect-3b0be-default-rtdb.firebaseio.com",
+    "project_id": "central-connect-3b0be",
+    "storage_bucket": "central-connect-3b0be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546674808707:android:ede63ccc011c9d1f36c8b6",
+        "android_client_info": {
+          "package_name": "id.central.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546674808707-871fsb1lakiaiho9eul0t62s81119bkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQG28RfZxhI3wSMHl6Pgleon_0R-H8Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546674808707-871fsb1lakiaiho9eul0t62s81119bkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546674808707-1379lf1u1jp558kc8gocevnbomt1ljjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.central.connect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546674808707:android:9450579e2351384636c8b6",
+        "android_client_info": {
+          "package_name": "id.co.central.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546674808707-871fsb1lakiaiho9eul0t62s81119bkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQG28RfZxhI3wSMHl6Pgleon_0R-H8Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546674808707-871fsb1lakiaiho9eul0t62s81119bkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546674808707-1379lf1u1jp558kc8gocevnbomt1ljjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.central.connect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

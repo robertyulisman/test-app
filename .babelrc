@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    ["@babel/plugin-transform-object-rest-spread", { "useBuiltIns": true }],
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@src": "./src"
+        }
+      }
+    ]
+  ],
+  "env": {
+    "production": {
+      "plugins": ["transform-remove-console"]
+    }
+  },
+  "assumptions": {
+    "setSpreadProperties": true
+  }
+}
