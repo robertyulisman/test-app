@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CentraConnect</string>
+    <string name="app_name">Central Connect</string>
+    <!-- codepush release -->
+    <!-- <string moduleConfig="true" name="CodePushDeploymentKey">Z5S3v6-3MwpSgi4m0ATyNPfS744Ohk_DHVprq</string> -->
+
+    <!-- codepush staging -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">nJXRSg-Vd8uil772teB2I6fgfc9h6RRRj5H2k</string>
 </resources>
