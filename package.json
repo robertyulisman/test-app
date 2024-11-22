@@ -68,7 +68,8 @@
     "redux-flipper": "^2.0.2",
     "redux-persist": "^6.0.0",
     "redux-persist-sensitive-storage": "^1.0.0",
-    "redux-thunk": "^2.4.2"
+    "redux-thunk": "^2.4.2",
+    "sp-react-native-in-app-updates": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
