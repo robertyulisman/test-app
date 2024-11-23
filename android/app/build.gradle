@@ -80,8 +80,9 @@ android {
         applicationId "id.central.connect"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode 29
+        versionName "1.2.12"
+         setProperty("archivesBaseName", applicationId + "-v" + versionCode + "(" + versionName + ")")
     }
     signingConfigs {
         debug {

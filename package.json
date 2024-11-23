@@ -20,11 +20,12 @@
     "lint": "eslint .",
     "format-check-style": "prettier --check ./src",
     "format-fix-style": "npx prettier --write ./src",
-    "depcheck": "npx depcheck "
+    "depcheck": "npx depcheck ",
+    "asset": "npx react-native-asset"
   },
   "dependencies": {
-    "@notifee/react-native": "5.5.0",
-    "@react-native-async-storage/async-storage": "^1.17.7",
+    "@notifee/react-native": "^9.1.2",
+    "@react-native-async-storage/async-storage": "^2.1.0",
     "@react-native-clipboard/clipboard": "^1.11.2",
     "@react-native-community/datetimepicker": "^6.3.0",
     "@react-native-community/netinfo": "^5.9.6",

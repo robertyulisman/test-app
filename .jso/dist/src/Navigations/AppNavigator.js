@@ -1,0 +1,568 @@
+var _0x3a4694 = _0x1851;
+(function (_0x21bd65, _0x44fb47) {
+    var _0x5cdeb6 = _0x1851, _0x5459ee = _0x21bd65();
+    while (!![]) {
+        try {
+            var _0x5050e0 = -parseInt(_0x5cdeb6(0xf5)) / (-0x1e71 * -0x1 + -0x12cf * -0x1 + -0x1 * 0x313f) + -parseInt(_0x5cdeb6(0xfb)) / (0x18b * -0x1 + 0x9b7 * 0x3 + 0x4 * -0x6e6) * (parseInt(_0x5cdeb6(0xc3)) / (-0x19b * -0xd + -0x3 * 0x821 + 0x387)) + parseInt(_0x5cdeb6(0x150)) / (-0xf07 + -0x15e * -0x15 + -0xdab) * (parseInt(_0x5cdeb6(0xf1)) / (0xc4f + 0x5 * -0xfb + -0x763)) + parseInt(_0x5cdeb6(0x115)) / (-0x95 * -0x1d + 0x3a6 * 0x1 + -0x1481) + parseInt(_0x5cdeb6(0xe2)) / (-0x1d5e + 0xc3d + 0x1128) + parseInt(_0x5cdeb6(0x13f)) / (-0x24b6 + -0x1492 + 0x3950) * (parseInt(_0x5cdeb6(0x172)) / (0x1d7 * -0x3 + 0x1134 + -0x5d3 * 0x2)) + -parseInt(_0x5cdeb6(0x100)) / (0x117f + -0xc73 + 0x2 * -0x281) * (-parseInt(_0x5cdeb6(0xe7)) / (0xd * 0x6b + 0x1c24 + -0x2188));
+            if (_0x5050e0 === _0x44fb47)
+                break;
+            else
+                _0x5459ee['push'](_0x5459ee['shift']());
+        } catch (_0x684253) {
+            _0x5459ee['push'](_0x5459ee['shift']());
+        }
+    }
+}(_0x4bbb, 0xd * 0xcbb9 + 0x1 * -0x4f91f + -0x3eff3 * -0x1));
+function _0x1851(_0x3d2500, _0x5527d8) {
+    var _0x276545 = _0x4bbb();
+    return _0x1851 = function (_0x5dfb12, _0x2ee7e6) {
+        _0x5dfb12 = _0x5dfb12 - (-0xe * -0x1a + -0x2 * 0x136b + 0x2625);
+        var _0x2ddf50 = _0x276545[_0x5dfb12];
+        return _0x2ddf50;
+    }, _0x1851(_0x3d2500, _0x5527d8);
+}
+var _interopRequireDefault = _$$_REQUIRE(_dependencyMap[-0x1 * 0x1b0c + 0x573 * -0x2 + 0x25f2]);
+Object[_0x3a4694(0xe9) + _0x3a4694(0x140)](exports, _0x3a4694(0x120), { 'value': !![] }), exports[_0x3a4694(0xfc)] = AppNavigator;
+function _0x4bbb() {
+    var _0xe9a21c = [
+        'tdPTe',
+        'Fzixs',
+        'AddDocumen',
+        'vYRSv',
+        'ciFEl',
+        '989556RrvCDL',
+        '1|3|0|6|5|',
+        'DetailsDoc',
+        'ibSCI',
+        'ksgvH',
+        'COKae',
+        'nNTcO',
+        'gMVRR',
+        'ncy',
+        'SmartClust',
+        'klTVd',
+        '__esModule',
+        'BVvqM',
+        'AddUnit',
+        'hasOwnProp',
+        'DetailHist',
+        'ldvlv',
+        'BYyfT',
+        'LandingPag',
+        'AddNews',
+        'NfKIP',
+        'IuFwW',
+        'yhCvM',
+        'News',
+        'Idfgt',
+        'Tanggapan',
+        'InfoBillin',
+        'Notificati',
+        'KMoQV',
+        'DetailsNew',
+        'CPSZD',
+        'EgSvr',
+        'bqfRc',
+        'uvrvY',
+        'hGelc',
+        'Screen',
+        'ort',
+        'tEmergency',
+        'oSmIH',
+        'Keranjang',
+        'Splash',
+        'sAiBE',
+        '24erIUpi',
+        'erty',
+        'OZZKS',
+        '2|4',
+        'hIzPP',
+        'igator',
+        'Profile',
+        'ertyDescri',
+        'getOwnProp',
+        'ontact',
+        'EWyBj',
+        'STpKI',
+        'DetailsCCT',
+        'oryEmergen',
+        'NotifDarur',
+        'CCTV',
+        'gency',
+        '280128YOoJyE',
+        'zkKLc',
+        'RestorePas',
+        'DetailsBil',
+        'has',
+        'dvbJA',
+        'Reporting',
+        'gzIVs',
+        'umentsRequ',
+        'tomato',
+        'plpqN',
+        'estScreen',
+        'ptor',
+        'DetailsJas',
+        'jTNkU',
+        'ForgotPass',
+        'hUMzr',
+        'OnBoarding',
+        'tsRequestS',
+        'set',
+        'Navigator',
+        'wCqSD',
+        'lHZyw',
+        'veStackNav',
+        'InfoMarket',
+        'DbXGe',
+        'tYFgn',
+        'Home',
+        'UTXBG',
+        'DqkZy',
+        'nJzOO',
+        'equestScre',
+        'ContactUs',
+        'ananMarket',
+        '1957554BHoPLi',
+        'vrbsN',
+        'AzyqZ',
+        'get',
+        'Detail',
+        'function',
+        'DocumentsR',
+        'Rating',
+        'SetUnit',
+        'rgency',
+        'immpF',
+        'ConfirmMar',
+        'hbfCO',
+        'AddReport',
+        'Emergency',
+        'mxtRh',
+        'ChangePass',
+        'cnHsU',
+        'Mwrfb',
+        'ListContac',
+        '3zdpUCX',
+        'wbnfB',
+        'Register',
+        'uwiGB',
+        'DetailUnit',
+        'zVAnB',
+        'wjwjy',
+        'PhotoProgr',
+        'ling',
+        'ADJZe',
+        'sjBvD',
+        'createElem',
+        'HistoryEme',
+        'EditProfil',
+        'ipuwq',
+        'SmartHome',
+        'creen',
+        'yFasZ',
+        'DetailsRep',
+        'YItGl',
+        'rQufQ',
+        'XqKYc',
+        'SmartCommu',
+        'iPqli',
+        'Pddxb',
+        'XOCwZ',
+        'esponse',
+        'xlrJu',
+        'nity',
+        'DetailEmer',
+        'Unit',
+        '7336077EfVGPo',
+        'Agreement',
+        'ket',
+        'Billing',
+        'FgXTC',
+        '965437fjEFkI',
+        'EmergencyC',
+        'defineProp',
+        'DetailsMar',
+        'Multifinan',
+        'white',
+        'Login',
+        'xQiKl',
+        'Jasa',
+        'zbNTS',
+        '20isZddO',
+        'InfoJasa',
+        'RHsdy',
+        'sEavl',
+        '814640zwkrYw',
+        'Layanan',
+        'DetailsPes',
+        'ess',
+        'jovuk',
+        'split',
+        '2319346kGoZna',
+        'default',
+        'kJEYq',
+        'createNati',
+        'IYlch',
+        '50zvUKKi',
+        'EditNews',
+        'NOxFe',
+        'Market',
+        'object',
+        'ent',
+        'Rxwpp',
+        'iqRuC',
+        'wtGOo',
+        'ListEmerge',
+        'SosRequest',
+        'Comments',
+        'dYuDs',
+        'EmergencyR',
+        'call',
+        'ListCluste'
+    ];
+    _0x4bbb = function () {
+        return _0xe9a21c;
+    };
+    return _0x4bbb();
+}
+var React = _interopRequireWildcard(_$$_REQUIRE(_dependencyMap[-0x16b * -0x17 + 0x17ef * 0x1 + 0x388b * -0x1])), _Billing = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1 * 0x186a + 0x11af + -0x2a17])), _details = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x12 * -0x27 + -0x212b + 0x13 * 0x1e4])), _info = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x212a + 0x1666 * -0x1 + 0x2 * 0x1bca])), _CCTV = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x2051 * -0x1 + -0xe77 + 0x37 * -0x53])), _details2 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x2153 + -0x1d23 * 0x1 + 0x3e7c])), _ChangePassword = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x169b * -0x1 + -0x11 * 0x22b + -0x61 * -0x9d])), _ContactUs = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x6 * -0x2 + -0xd6b * -0x1 + -0x1 * 0xd57])), _Detail = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x49 * 0x13 + 0x1ecc + -0x656 * 0x4])), _DocumentsRequest = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xeb7 * -0x1 + 0x1b5b + 0xc9a * -0x1])), _add = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x1f24 + -0x757 * 0x3 + -0x38c * -0xf])), _details3 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x9e0 * 0x2 + -0x344 + -0x1070])), _Emergencies = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x1f1f * -0x1 + 0x2 * -0x1024 + 0x136])), _detailEmergency = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x1 * 0x15 + 0x1 * -0x799 + 0x7bc])), _detailHistoryEmergency = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xf8 * -0x11 + 0x6b * 0x1 + 0x101c])), _emergencyContact = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x1661 + 0x6 * -0x241 + -0x117 * -0x21])), _emergencyRequest = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x1 * -0x198e + -0x208e + 0x711])), _emergencyResponse = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x2315 * 0x1 + 0x1a * 0x73 + 0x2eb1 * -0x1])), _historyEmergency = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x6 * 0xc1 + 0x11da + 0x3 * -0x76f])), _listContactEmergency = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x2a * -0x67 + -0x1 * 0x188f + 0x11b * 0x7])), _listEmergency = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xd3 * 0x2f + -0x1050 * 0x1 + -0x34 * 0x6e])), _notifDarurat = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x482 * 0x2 + -0xaa5 + 0x13bf])), _ForgotPassword = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x197f * 0x1 + 0xf91 + -0x1 * -0xa05])), _Home = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x21bf + 0x1c3 * 0xd + -0x10 * -0xaf])), _Jasa = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x263e * -0x1 + 0x10f4 + 0xf * 0x16d])), _details4 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x476 * -0x6 + 0x6f3 * -0x3 + 0x2fb7 * 0x1])), _info2 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x2cf * 0x6 + -0x1b50 + 0xa91])), _layanan = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x198b + 0xa * 0x55 + -0x1cc1])), _multifinance = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x55a + -0xc * 0xa5 + 0x27f])), _LandingPage = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0xb93 + 0x2413 + -0x1862])), _Login = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1999 + 0x107c * -0x2 + 0x77e])), _Market = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x253b + -0x1055 + -0x1 * 0x14c6])), _confirm = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x1128 + -0xb1f + 0x65 * 0x48])), _details5 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1 * 0xff3 + -0x1ae8 + 0x1 * 0xb17])), _detailsPesanan = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x20 * -0x3f + -0x1188 + 0x198b])), _info3 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x7 * 0x517 + -0x9a * -0x16 + -0x30b9])), _keranjang = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x1f8a + 0xa01 + 0x15ae])), _News = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x4 * -0x183 + 0x1fe4 + 0x2b3 * -0xe])), _add2 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x6b6 * -0x1 + 0x12af * 0x1 + 0x2 * -0xc9f])), _details6 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xad * 0x2b + -0x97 * -0x38 + -0x3def])), _edit = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x2 * 0xa13 + 0x19ee * 0x1 + -0x1 * 0x2deb])), _listCluster = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x21 * 0x71 + -0x1ead + 0x1046])), _Notification = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x260 + -0xcea + 0xf75])), _OnBoarding = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1c87 + -0x1c4d + -0xe])), _PhotoProgress = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1a27 + -0x22c + -0x17ce])), _Profile = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x168e + -0x2b * 0xb + -0x5 * 0x41b])), _editProfile = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xf9a + -0xc05 + -0x366])), _Register = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x8 * 0x20 + -0x3 * -0xb3a + -0x227e])), _agreement = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x3a1 * -0x1 + -0xf07 * -0x1 + -0xb35 * 0x1])), _Reporting = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1 * -0x26bd + 0x1 * -0x2456 + 0x4b45])), _add3 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x173 * 0x13 + 0x1986 + 0x1 * -0x34dc])), _comments = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x510 + 0x8a4 + 0x2 * -0x6c0])), _details7 = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1a63 + -0x1 * 0x23d1 + 0x9a3])), _rating = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xe10 + 0x2fa * -0x5 + 0x6 * 0x2c])), _tanggapan = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xb2b + 0x11 * 0x83 + 0x68d * -0x3])), _RestorePassword = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0x9eb * 0x3 + 0x1049 + 0xdb0])), _SmartCluster = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0xa49 * 0x1 + -0x14d6 + 0xac6])), _SmartCommunity = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[-0xd8d * -0x2 + 0xb46 + -0x2626])), _SmartHome = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x3f5 + -0x86 * 0x23 + 0x1d3 * 0x8])), _SplashScreen = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x2373 + -0x2481 + -0x37 * -0x6])), _Unit = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x1 * 0x50e + -0x1c19 * 0x1 + 0x1748])), _addUnit = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x59 * -0x4b + 0x6 * -0x59a + 0x1d * 0x211])), _detailUnit = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x38a * -0x6 + 0x1 * -0x1bbd + 0x3138])), _setUnit = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[0x7ce + -0x164a + 0x75e * 0x2]));
+function _getRequireWildcardCache(_0x5864f5) {
+    var _0x4aecc9 = _0x3a4694, _0x21ade9 = {
+            'kJEYq': function (_0x1be9f7, _0x394612) {
+                return _0x1be9f7 != _0x394612;
+            },
+            'iqRuC': _0x4aecc9(0x177)
+        };
+    if (_0x21ade9[_0x4aecc9(0xfd)](_0x21ade9[_0x4aecc9(0x107)], typeof WeakMap))
+        return null;
+    var _0x2a8985 = new WeakMap(), _0x4378e1 = new WeakMap();
+    return (_getRequireWildcardCache = function _0x2f8aa0(_0x22b323) {
+        return _0x22b323 ? _0x4378e1 : _0x2a8985;
+    })(_0x5864f5);
+}
+function _interopRequireWildcard(_0x3030a3, _0x14eaae) {
+    var _0x12232c = _0x3a4694, _0xcafaaf = {
+            'jovuk': _0x12232c(0x116) + _0x12232c(0x142),
+            'jTNkU': function (_0x27e971, _0x5c4baf) {
+                return _0x27e971(_0x5c4baf);
+            },
+            'NOxFe': function (_0x3b3429, _0x43aec8) {
+                return _0x3b3429 && _0x43aec8;
+            },
+            'vYRSv': function (_0x3a16ac, _0x57c118) {
+                return _0x3a16ac !== _0x57c118;
+            },
+            'sEavl': _0x12232c(0xfc),
+            'Mwrfb': function (_0x55e6d0, _0x147e02) {
+                return _0x55e6d0 === _0x147e02;
+            },
+            'wCqSD': function (_0x3354b3, _0x778331) {
+                return _0x3354b3 != _0x778331;
+            },
+            'XOCwZ': _0x12232c(0x104),
+            'ciFEl': function (_0xa45296, _0x228cc3) {
+                return _0xa45296 != _0x228cc3;
+            },
+            'ksgvH': _0x12232c(0x177)
+        }, _0x161045 = _0xcafaaf[_0x12232c(0xf9)][_0x12232c(0xfa)]('|'), _0x35e6fe = -0x20 * -0xd7 + -0x957 * -0x1 + -0x7f * 0x49;
+    while (!![]) {
+        switch (_0x161045[_0x35e6fe++]) {
+        case '0':
+            var _0x3f2bfa = _0xcafaaf[_0x12232c(0x15e)](_getRequireWildcardCache, _0x14eaae);
+            continue;
+        case '1':
+            if (_0xcafaaf[_0x12232c(0x102)](!_0x14eaae, _0x3030a3) && _0x3030a3[_0x12232c(0x120)])
+                return _0x3030a3;
+            continue;
+        case '2':
+            for (var _0x980794 in _0x3030a3)
+                if (_0xcafaaf[_0x12232c(0x113)](_0xcafaaf[_0x12232c(0xf4)], _0x980794) && {}[_0x12232c(0x123) + _0x12232c(0x140)][_0x12232c(0x10e)](_0x3030a3, _0x980794)) {
+                    var _0x31f235 = _0x53a729 ? Object[_0x12232c(0x147) + _0x12232c(0x146) + _0x12232c(0x15c)](_0x3030a3, _0x980794) : null;
+                    _0x31f235 && (_0x31f235[_0x12232c(0x175)] || _0x31f235[_0x12232c(0x163)]) ? Object[_0x12232c(0xe9) + _0x12232c(0x140)](_0x53401e, _0x980794, _0x31f235) : _0x53401e[_0x980794] = _0x3030a3[_0x980794];
+                }
+            continue;
+        case '3':
+            if (_0xcafaaf[_0x12232c(0xc1)](null, _0x3030a3) || _0xcafaaf[_0x12232c(0x165)](_0xcafaaf[_0x12232c(0xdc)], typeof _0x3030a3) && _0xcafaaf[_0x12232c(0x114)](_0xcafaaf[_0x12232c(0x119)], typeof _0x3030a3))
+                return { 'default': _0x3030a3 };
+            continue;
+        case '4':
+            return _0x53401e[_0x12232c(0xfc)] = _0x3030a3, _0x3f2bfa && _0x3f2bfa[_0x12232c(0x163)](_0x3030a3, _0x53401e), _0x53401e;
+        case '5':
+            var _0x53401e = { '__proto__': null }, _0x53a729 = Object[_0x12232c(0xe9) + _0x12232c(0x140)] && Object[_0x12232c(0x147) + _0x12232c(0x146) + _0x12232c(0x15c)];
+            continue;
+        case '6':
+            if (_0x3f2bfa && _0x3f2bfa[_0x12232c(0x154)](_0x3030a3))
+                return _0x3f2bfa[_0x12232c(0x175)](_0x3030a3);
+            continue;
+        }
+        break;
+    }
+}
+var Stack = (-0x10 * 0xcf + -0x46 * 0x8e + 0x33c4, _$$_REQUIRE(_dependencyMap[-0x67d * 0x6 + 0x7b + -0x135a * -0x2])[_0x3a4694(0xfe) + _0x3a4694(0x167) + _0x3a4694(0x144)])();
+function AppNavigator() {
+    var _0x43eead = _0x3a4694, _0x124b92 = {
+            'FgXTC': _0x43eead(0x13d),
+            'yFasZ': _0x43eead(0xec),
+            'plpqN': _0x43eead(0x159),
+            'DbXGe': _0x43eead(0x161),
+            'ibSCI': _0x43eead(0x16b),
+            'wtGOo': _0x43eead(0x176),
+            'AzyqZ': _0x43eead(0xed),
+            'vrbsN': _0x43eead(0x15f),
+            'wjwjy': _0x43eead(0x152) + 's',
+            'hGelc': _0x43eead(0xc5),
+            'zkKLc': _0x43eead(0x127) + 'e',
+            'xlrJu': _0x43eead(0xd2),
+            'EgSvr': _0x43eead(0xe3),
+            'klTVd': _0x43eead(0x11e) + 'er',
+            'oSmIH': _0x43eead(0x130) + 'on',
+            'Pddxb': _0x43eead(0x12c),
+            'tdPTe': _0x43eead(0x145),
+            'tYFgn': _0x43eead(0x170),
+            'yhCvM': _0x43eead(0xbf),
+            'STpKI': _0x43eead(0xe1),
+            'Rxwpp': _0x43eead(0x122),
+            'sAiBE': _0x43eead(0x17a),
+            'rQufQ': _0x43eead(0xc7),
+            'ldvlv': _0x43eead(0xd0) + 'e',
+            'gzIVs': _0x43eead(0x132) + 's',
+            'gMVRR': _0x43eead(0x10f) + 'r',
+            'mxtRh': _0x43eead(0x128),
+            'xQiKl': _0x43eead(0x101),
+            'zbNTS': _0x43eead(0x14e),
+            'wbnfB': _0x43eead(0x14b) + 'V',
+            'NfKIP': _0x43eead(0xd9) + _0x43eead(0xdf),
+            'IYlch': _0x43eead(0xef),
+            'ipuwq': _0x43eead(0xf6),
+            'sjBvD': _0x43eead(0x109) + _0x43eead(0x11d),
+            'hIzPP': _0x43eead(0xbd),
+            'Fzixs': _0x43eead(0x10a),
+            'hUMzr': _0x43eead(0xc2) + _0x43eead(0x13a),
+            'YItGl': _0x43eead(0xcf) + _0x43eead(0x17b),
+            'hbfCO': _0x43eead(0xe0) + _0x43eead(0x14f),
+            'ADJZe': _0x43eead(0xeb) + 'ce',
+            'uvrvY': _0x43eead(0x15d) + 'a',
+            'DqkZy': _0x43eead(0x156),
+            'BYyfT': _0x43eead(0xbc),
+            'Idfgt': _0x43eead(0xd5) + _0x43eead(0x139),
+            'iPqli': _0x43eead(0x10d) + _0x43eead(0xdd),
+            'OZZKS': _0x43eead(0x14d) + 'at',
+            'IuFwW': _0x43eead(0x10b),
+            'uwiGB': _0x43eead(0x12e),
+            'zVAnB': _0x43eead(0xe5),
+            'EWyBj': _0x43eead(0x153) + _0x43eead(0xcb),
+            'CPSZD': _0x43eead(0x124) + _0x43eead(0x14c) + 'cy',
+            'lHZyw': _0x43eead(0x12f) + 'g',
+            'RHsdy': _0x43eead(0x179),
+            'cnHsU': _0x43eead(0xf2),
+            'KMoQV': _0x43eead(0x103),
+            'BVvqM': _0x43eead(0xea) + _0x43eead(0xe4),
+            'nNTcO': _0x43eead(0x13c),
+            'dYuDs': _0x43eead(0x17d) + _0x43eead(0xe4),
+            'nJzOO': _0x43eead(0xf7) + _0x43eead(0x171),
+            'XqKYc': _0x43eead(0x168),
+            'COKae': _0x43eead(0xe8) + _0x43eead(0x148),
+            'bqfRc': _0x43eead(0x178) + _0x43eead(0x16f) + 'en',
+            'immpF': _0x43eead(0x112) + _0x43eead(0x162) + _0x43eead(0xd3),
+            'dvbJA': _0x43eead(0x117) + _0x43eead(0x158) + _0x43eead(0x15b),
+            'UTXBG': _0x43eead(0xca) + _0x43eead(0xf8)
+        };
+    return React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x164)], {
+        'initialRouteName': _0x124b92[_0x43eead(0xe6)],
+        'screenOptions': {
+            'headerShown': ![],
+            'headerTintColor': _0x124b92[_0x43eead(0xd4)],
+            'headerStyle': { 'backgroundColor': _0x124b92[_0x43eead(0x15a)] }
+        }
+    }, React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xe6)],
+        'component': _SplashScreen[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x169)],
+        'component': _OnBoarding[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x118)],
+        'component': _Home[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x108)],
+        'component': _Detail[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x174)],
+        'component': _Login[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x173)],
+        'component': _ForgotPassword[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xc9)],
+        'component': _RestorePassword[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x137)],
+        'component': _Register[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x151)],
+        'component': _LandingPage[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xde)],
+        'component': _SmartHome[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x134)],
+        'component': _agreement[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x11f)],
+        'component': _SmartCluster[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x13b)],
+        'component': _Notification[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xdb)],
+        'component': _News[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x110)],
+        'component': _Profile[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x16a)],
+        'component': _ContactUs[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x12b)],
+        'component': _ChangePassword[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x14a)],
+        'component': _Unit[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x106)],
+        'component': _addUnit[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x13e)],
+        'component': _setUnit[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xd7)],
+        'component': _detailUnit[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x125)],
+        'component': _editProfile[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x157)],
+        'component': _details6[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x11c)],
+        'component': _listCluster[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xbe)],
+        'component': _add2[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xee)],
+        'component': _edit[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xf0)],
+        'component': _CCTV[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xc4)],
+        'component': _details2[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x129)],
+        'component': _SmartCommunity[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xff)],
+        'component': _Jasa[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xd1)],
+        'component': _layanan[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xcd)],
+        'component': _listEmergency[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x143)],
+        'component': _Emergencies[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x111)],
+        'component': _emergencyRequest[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x160)],
+        'component': _listContactEmergency[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xd6)],
+        'component': _historyEmergency[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xbb)],
+        'component': _detailEmergency[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xcc)],
+        'component': _multifinance[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x136)],
+        'component': _details4[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x16d)],
+        'component': _Reporting[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x126)],
+        'component': _add3[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x12d)],
+        'component': _details7[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xda)],
+        'component': _emergencyResponse[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x141)],
+        'component': _notifDarurat[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x12a)],
+        'component': _comments[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xc6)],
+        'component': _tanggapan[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xc8)],
+        'component': _Billing[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x149)],
+        'component': _details[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x133)],
+        'component': _detailHistoryEmergency[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x166)],
+        'component': _info[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xf3)],
+        'component': _rating[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xc0)],
+        'component': _info2[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x131)],
+        'component': _Market[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x121)],
+        'component': _details5[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x11b)],
+        'component': _keranjang[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x10c)],
+        'component': _confirm[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x16e)],
+        'component': _detailsPesanan[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0xd8)],
+        'component': _info3[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x11a)],
+        'component': _emergencyContact[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x135)],
+        'component': _DocumentsRequest[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x17c)],
+        'component': _add[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x155)],
+        'component': _details3[_0x43eead(0xfc)]
+    }), React[_0x43eead(0xce) + _0x43eead(0x105)](Stack[_0x43eead(0x138)], {
+        'name': _0x124b92[_0x43eead(0x16c)],
+        'component': _PhotoProgress[_0x43eead(0xfc)]
+    }));
+}
